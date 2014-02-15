@@ -1,8 +1,4 @@
-arg_sort
+bash-examples
 ========
 
-this is just an example to handle arrays and arguments.
-
-actions:
-
-remove first element, sort args and remove duplicates.
+a list of examples how to use the bash.
